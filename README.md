@@ -1,13 +1,13 @@
 # MovieLand - Movie Search App
 
-Welcome to MovieLand, the ultimate movie search app that brings the vast universe of movies right to your fingertips. Whether you're a film buff or just looking for your next movie night pick, MovieLand offers an intuitive and comprehensive platform to explore, discover, and dive deep into the world of movies.
+Welcome to [MovieLand](https://movieland2044.netlify.app), the ultimate movie search app that brings the vast universe of movies right to your fingertips. Whether you're a film buff or just looking for your next movie night pick, MovieLand offers an intuitive and comprehensive platform to explore, discover, and dive deep into the world of movies.
+
+## [Live Link](https://movieland2044.netlify.app)
 
 ## Features
-
+- In this app I am using OMDB Movie app API and fetch data from it.
 - **Search Functionality**: Quickly find movies with our efficient search feature. Whether you know exactly what you're looking for or need some inspiration, our search has got you covered.
 - **Detailed Movie Information**: Get access to detailed information about each movie, including synopsis, cast, director, ratings, and more.
-- **User Ratings and Reviews**: See what others think about a movie before you watch. Our platform allows users to rate and review movies, giving you insights from the community.
-- **Personal Watchlist**: Create your own watchlist to keep track of movies you want to see, making it easy to decide on your next movie night.
 - **Recommendations**: Discover new movies with our recommendation system, tailored to your tastes and viewing history.
 
 ## Getting Started
