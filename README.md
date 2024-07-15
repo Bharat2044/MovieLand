@@ -16,7 +16,7 @@ To get started with MovieLand, follow these simple steps:
 
 1. **Clone the repository**:
 ```sh
-git clone https://github.com/Bharat2044/MovieLand-Search-Movies.git
+git clone https://github.com/Bharat2044/MovieLand.git
 ```
 
 2. **Navigate to the project directory**:
